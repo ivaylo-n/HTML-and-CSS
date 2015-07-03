@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Ids-and-Classes</title>
+		<style>
+			#emphasis {
+				color: red;
+			}
+
+			.emphasis {
+				color: blue;
+			}
+
+			#sect li:nth-child(4) {
+				color: orange;
+			}
+
+			ul:nth-of-type(2) li:nth-child(4) {
+				color: green;
+			}
+		</style>
+	</head>
+	<body>
+		<ul id="sect">
+			<li class="emphasis">This</li>
+			<li id="emphasis">is</li>
+			<li class="emphasis">my</li>
+			<li>list</li>
+		</ul>
+
+		<ul>
+			<li class="emphasis">This</li>
+			<li>is</li>
+			<li class="emphasis">my</li>
+			<li>list</li>
+		</ul>
+	</body>
+</html>

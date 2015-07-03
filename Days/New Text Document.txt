@@ -1,0 +1,51 @@
+http://webdesign.tutsplus.com/courses/30-days-to-learn-html-css
+
+30 Days to Learn HTML & CSS
+
+Introduction1 lesson,
+Free Preview
+1.1Course Introduction
+
+2.Week 17 lessons, 
+2.1Your First Web Page
+2.2Finding a Proper Code Editor
+2.3Lists
+2.4Parent-Child Relationships
+2.5Heading Tags
+2.6Blockquotes
+2.7Anchors
+
+3.Week 28 lessons, 
+3.1Your First Stylesheet
+3.2Clean Project Structures
+3.3Images
+3.4The Necessity of Divs
+3.5IDs and Classes
+3.6An Assignment
+3.7Assignment Solution
+3.8Floats, and a Simple Layout
+
+4.Week 37 lessons, 
+4.1Navigation Lists
+4.2An Introduction to Forms
+4.3Image Replacement
+4.4The Basics of Typography
+4.5The Difference Between Relative and Absolute Positioning
+4.6Reproduce a Website Fragment
+4.7The Importance of Validation
+
+5.Week 43 lessons,
+5.1Zen Coding
+5.2Resets and Normalizing
+5.3CSS Frameworks
+
+6.Final Project5 lessons,
+6.1Creating the Mark-up
+6.2How to Slice a PSD
+6.3How to Create Snippets
+6.4The CSS For Our Website
+6.5Completing the Website
+
+7.Closing Thoughts1 lesson, 
+7.1Conclusion
+
